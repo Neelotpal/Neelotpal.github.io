@@ -4,4 +4,5 @@ A repository for a website containing my work.
 
 OR you can route to individual projects.
 
-1.[Object.allKeys](https://neelotpal.github.io/Object.allKeys.html)
+1.[Object.allKeys](https://neelotpal.github.io/ObjectAllKeys/Object.allKeys.html)
+2.[RandomColorsVuejs](https://neelotpal.github.io/RandomColorsVuejs/index.html)
