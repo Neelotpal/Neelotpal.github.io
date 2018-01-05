@@ -1,2 +1,11 @@
-body{background-color:red}body a{color:#f0f}
-/*# sourceMappingURL=main.bundle.css.map*/
+body {
+    background-color: red
+}
+
+body a {
+    color: #f0f
+}
+
+cite {
+    display: table;
+}
